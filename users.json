@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "usuario": "David",
+    "email": "david.hs.cruz@gmail.com",
+    "senha": "$2b$10$KDNXTHP98.AzoWmOGI1kneSkuiRizKRvXkyZN3XQlSgmWo3Ss5oQW",
+    "admin": true
+  },
+  {
+    "id": 2,
+    "usuario": "Wesley",
+    "email": "",
+    "senha": "$2b$10$lqu3JoHnigUAQ8U.1UX2bOSc8UB/g09HrnboLP1ivgp1/7luGOG5m",
+    "admin": true
+  },
+  {
+    "id": 3,
+    "usuario": "Nedson",
+    "email": "",
+    "senha": "$2b$10$RZUizeTG6Q2nCO/vQzW2LOSxp.Ps6W80vNrkKQFaB0UXZ37HRm4HW",
+    "admin": true
+  },
+  {
+    "id": 4,
+    "usuario": "Kely",
+    "email": "",
+    "senha": "$2b$10$4VANssSKwUVA2krag26mgO9Wbj3NKpCfQrJBNVFNHRSkMDiEgi.tC",
+    "admin": true
+  },
+  {
+    "id": 5,
+    "usuario": "Marcia",
+    "email": "",
+    "senha": "$2b$10$Xm3W.jC0S7nuaTemkP/RYOBti.zutt6h.PQHDh8Xjlb7oJC9CIoyi",
+    "admin": true
+  },
+  {
+    "id": 6,
+    "usuario": "Marcos",
+    "email": "",
+    "senha": "$2b$10$kIsgzUb4R2hLctCoKbv6Oul6RK6eLwVy7bv/cyz5SpYel5McZD8C2",
+    "admin": false
+  },
+  {
+    "id": 7,
+    "usuario": "Elise",
+    "email": "",
+    "senha": "$2b$10$AWK4UqgOunlu6eswBA7B9e.k9VF8HJ3.nnoC820xwBIT1KvmGY5/m",
+    "admin": false
+  },
+  {
+    "id": 8,
+    "usuario": "Bruno",
+    "email": "",
+    "senha": "$2b$10$aXmaPA./jRNCplrA1h43kubsu6bcyGuSs33ywfLd4xaxgMPm8erjm",
+    "admin": false
+  }
+]
